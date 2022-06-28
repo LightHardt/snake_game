@@ -8,4 +8,4 @@ Followed along with this [tutorial](https://mbuffett.com/posts/bevy-snake-tutori
 
 ## Release
 
-There is a Windows executable posted in Releases as well
+There is a Windows and Linux executable posted in Releases as well
